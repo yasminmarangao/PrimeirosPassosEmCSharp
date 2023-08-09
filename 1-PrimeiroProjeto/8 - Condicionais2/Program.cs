@@ -13,7 +13,7 @@ namespace _8___Condicionais2
             Console.WriteLine("Executando projeto 7 - Condicionais");
 
             int idadeJoao = 18;
-            int quantidadePessoas = 2;
+            //int quantidadePessoas = 2;
 
             //bool acompanhado = quantidadePessoas >= 2;
             bool acompanhado = true;

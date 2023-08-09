@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("11- Laço de repetição While")]
+[assembly: AssemblyTitle("13.1 - ExercícioContador")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("11- Laço de repetição While")]
+[assembly: AssemblyProduct("13.1 - ExercícioContador")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("9ea5fb98-eb8f-4eba-9c64-4df6d8abb0ef")]
+[assembly: Guid("c4980a20-08df-47d2-9952-45233d026af4")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //
