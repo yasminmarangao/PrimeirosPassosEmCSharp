@@ -102,16 +102,97 @@ namespace Algoritmos
 
             #endregion exer 08
 
-
             #region exer 09
 
+            //Console.Write("Digite um número: ");
+            //long num = Convert.ToInt64(Console.ReadLine());
 
+            //if (num % 2 == 0)
+            //{
+            //    Console.WriteLine("O numero digitado é par!");
+            //}
+
+            //else
+            //{
+            //    Console.WriteLine("O número digitado é impar!");
 
             #endregion exer 09
 
+            #region exer 10
+
+            //Console.Write("Digite o 1° numero: ");
+            //int num = Convert.ToInt32(Console.ReadLine());
+
+            //Console.Write("Digite o 2° numero: ");
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+
+            //if (num > num2)
+            //{
+            //    Console.WriteLine($"O numero {num} é maior que {num2}. A diferença entre eles é: {(num - num2)}");
+            //}
+
+            //if (num2 > num)
+            //{
+            //    Console.WriteLine($"O numero {num2} é maior que {num}. A diferença entre eles é: {(num2 - num)}");
+            //}
+
+            //if (num == num2)
+            //{
+            //    Console.WriteLine("Os dois numeros são iguais.");
+            //}
+
+            #endregion exer 10
+
+            #region exer 11
+
+            //Console.Write("Digite a 1a nota: ");
+            //double nota1 = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("Digite a 2a nota: ");
+            //double nota2 = Convert.ToDouble(Console.ReadLine());
+
+            //if (((nota1) >= 0 && (nota1 <= 10)) && ((nota2 >= 0) && (nota2 <= 10)))
+            //{
+            //    Console.WriteLine($"A media das notas é: {((nota1 + nota2) / 2)}");
+            //}
+
+            //else
+            //{
+            //    Console.WriteLine("Notas inválidas!");
+            //}
+            #endregion exer 11
+
+            #region exer 12
+
+
+
+            #endregion exer 12
+
+            #region exer 13
+
+            Console.Write("Digite o valor do seu salário em reais: ");
+            double salario = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Digite o valor da prestação do empréstimo que você deseja solicitar: ");
+            double emp = Convert.ToDouble(Console.ReadLine());
+
+            if ((emp >= (salario * 0.2)))
+
+            {
+                Console.WriteLine("Empréstimo não concedido.");
+            }
+
+            else 
+            {
+                Console.WriteLine("Emprestimo concedido.");
+            }
+
+            #endregion exer 13
+
             #endregion Lista 01
-
-
         }
     }
+
 }
+
+
